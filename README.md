@@ -1,7 +1,7 @@
 # Parabola-Generator
 Generates a PNG image of a parabola with antialiased curves.
 
-<img src="/parabola_antialiased.png" alt="Antialiased Parabola" width="625"/>
+<img src="/img/parabola_antialiased.png" alt="Antialiased Parabola" width="625"/>
 
 ## Prerequisites
 This program runs on the Python 3 terminal. You'll need `pypng` for this to work.
