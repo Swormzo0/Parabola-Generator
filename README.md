@@ -8,8 +8,8 @@ This program runs on the Python 3 terminal. You'll need `pypng` for this to work
 
 To install `pypng`, put the following piece of code in the terminal and run with administrative privileges:
 ~~~~ 
-pip3 install pypng 
+pip3 install pypng
 ~~~~
 
-## Which One Should I Use?
-If in doubt, choose `parabolaGen_antiAliased.py`. The other `.py` files are early versions of this program.
+## Version history
+`parabolaGen_antiAliased.py` is the newest version. The other `.py` files are early versions of this program.
