@@ -17,6 +17,7 @@ Right-click [here](https://raw.githubusercontent.com/shermansiu/Parabola-Generat
 
 ### Run
 To run this on Windows, do ```py -3 C:\path\to\file\parabolaGen_antiAliased.py``` 
+
 and on Mac, do ```python3 \path\to\file\parabolaGen_antiAliased.py```
 
 ## Version history
