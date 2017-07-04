@@ -3,6 +3,8 @@ Generates a PNG image of a parabola with antialiased curves.
 
 <img src="/img/parabola_antialiased.png" alt="Antialiased Parabola" width="625"/>
 
+This project was started and completed in January 2013.
+
 ## Installation
 ### Prerequisites
 This program runs on the Python 3 terminal. You'll need `pypng` for this to work.
